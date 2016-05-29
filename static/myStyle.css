@@ -1,0 +1,20 @@
+#msgWrapper { 
+  padding: 2px;
+  margin: 3px;
+  word-wrap: break-word;
+}
+#container1 {
+  left: 3px;
+  top: 3px;
+  width: 220px;
+}
+#container2 {
+  width: 230px;
+  height: 400px;
+  overflow: scroll;
+  border: 2px solid black;
+  position: relative;
+}
+#textStyle {
+  font: 12px Verdana;
+}
